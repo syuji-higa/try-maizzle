@@ -1,0 +1,4 @@
+@tailwind utilities;
+.button { @apply rounded text-center bg-blue-500 text-white; }
+.button:hover { @apply bg-blue-700; }
+.button a { @apply inline-block py-16 px-24 text-sm font-semibold no-underline text-white; }

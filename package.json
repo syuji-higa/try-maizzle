@@ -1,0 +1,14 @@
+{
+  "name": "try-maizzle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Syuji Higa <syuji.higa@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@maizzle/framework": "^3.5.1",
+    "mustache": "^4.2.0"
+  },
+  "scripts": {
+    "build": "node index.mjs"
+  }
+}
