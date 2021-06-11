@@ -1,4 +1,4 @@
-- Tried the module: https://maizzle.com/docs/introduction/
+- Tried the module: https://maizzle.com/
 - Add mustache.js (Template Engine): https://github.com/janl/mustache.js
 
 ```sh
