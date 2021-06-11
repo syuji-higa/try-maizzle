@@ -8,7 +8,8 @@
     "@maizzle/framework": "^3.5.1",
     "mustache": "^4.2.0"
   },
+  "type": "module",
   "scripts": {
-    "build": "node index.mjs"
+    "build": "node index.js"
   }
 }

@@ -2,8 +2,8 @@ import { join } from 'path'
 import { promises as fs } from 'fs'
 import Maizzle from '@maizzle/framework'
 import Mustache from 'mustache'
-import { tailwindConfig } from './tailwind.config.mjs'
-import { config } from './config.mjs'
+import { tailwindConfig } from './tailwind.config.js'
+import { config } from './config.js'
 
 const { mkdir, readFile, writeFile } = fs
 const { render } = Mustache
